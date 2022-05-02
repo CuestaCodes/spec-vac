@@ -1,0 +1,12 @@
+*.csv
+*.docx
+*.pdf
+*.xlsx
+*.xls
+*.html
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+/.vscode
