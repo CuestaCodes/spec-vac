@@ -10,3 +10,6 @@
 *.shp
 *.shx
 /.vscode
+client_secrets.json
+settings.yaml
+credentials.json
